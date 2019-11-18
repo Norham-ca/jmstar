@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack --output-path ./public",
-    "start": "webpack-dev-server --content-base ./public --output-path ./public --hot"
+    "start": "webpack-dev-server --content-base ./public --output-path ./public --hot --port 53654"
   },
   "repository": {
     "type": "git",
