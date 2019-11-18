@@ -1,0 +1,25 @@
+{
+  "name": "jmstar",
+  "version": "1.0.0",
+  "description": "A tool for analyzing job markets and helping candidates",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Norham-ca/jmstar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Norham-ca/jmstar/issues"
+  },
+  "homepage": "https://github.com/Norham-ca/jmstar#readme",
+  "devDependencies": {
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10",
+    "webpack-dev-server": "^3.9.0"
+  }
+}
